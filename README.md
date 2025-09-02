@@ -30,7 +30,7 @@ Using UML models and supporting scripts as the authoritative source of truth, AC
 
 The full whitepaper PDF is included in this repository:
 
-- `Agile7_Code_Platform_Whitepaper.pdf`
+- [Agile7_Code_Platform_Whitepaper.pdf](https://github.com/mmeinhar/Agile7-Code-Platform/blob/main/Agile7_Whitepaper_ACP.pdf)
 
 ---
 
