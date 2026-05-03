@@ -1,6 +1,6 @@
 # Agile7 Code Platform (ACP) – Whitepaper
 
-**Open-source whitepaper showcasing the Agile7 Code Platform (ACP), an AI-driven no-code platform that ensures product requirements-to-code alignment while maintaining software architecture models as the single source of truth.**
+**Open-source whitepaper showcasing the Agile7 Code Platform (ACP), an AI-driven no-code platform that ensures product requirements-to-code alignment while maintaining software architecture models as the single source of truth. Its code implementation is currently in progress.**
 
 ---
 
@@ -12,7 +12,7 @@ The Agile7 Code Platform (ACP) is a proof-of-concept open-source platform develo
 - **System Architecture**
 - **Generated Code**
 
-Using UML models and supporting scripts as the authoritative source of truth, ACP prevents scope creep, architectural drift, and misalignment. It integrates **Business Requirements Validation (BRV)** to track alignment metrics and enforce fidelity between requirements and code.
+Using UML models and supporting scripts as the authoritative source of truth, ACP prevents scope creep, architectural drift, and misalignment. Its UI module called **Business Requirements Validation (BRV)** is used to track alignment metrics and enforce fidelity between requirements and code.
 
 ---
 
@@ -42,7 +42,7 @@ This project is **open-source**. See the [LICENSE](LICENSE) file for details.
 
 ## About the Author
 
-**Max Meinhardt** – Founder of [Agile7](https://agile7.com), software architect with expertise in enterprise software design, AI-driven platforms, and model-based engineering.  
+**Max Meinhardt** – Founder of [Agile7](https://agile7.com), Max is software engineer with 30 years of experience in software engineering which include enterprise and government web software implementation, web software energy efficiency and performance optimization, AI-first web software development platform architecture and implementation, and embedded software and firmware implementation.
 
 ---
 
