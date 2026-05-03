@@ -42,7 +42,7 @@ This project is **open-source**. See the [LICENSE](LICENSE) file for details.
 
 ## About the Author
 
-**Max Meinhardt** – Founder of [Agile7](https://agile7.com), Max is software engineer with 30 years of experience in software engineering which include enterprise and government web software implementation, web software energy efficiency and performance optimization, AI-first web software development platform architecture and implementation, and embedded software and firmware implementation.
+**Max Meinhardt** – Founder of [Agile7](https://agile7.com), Max is a software engineer with 30 years of experience in software engineering which include enterprise and government web software implementation, web software energy efficiency and performance optimization, AI-first web software development platform architecture and implementation, and embedded software and firmware implementation.
 
 ---
 
