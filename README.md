@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/1049337813.svg)](https://doi.org/10.5281/zenodo.20543683)
 
 **Version DOI (v1.02b):** https://doi.org/10.5281/zenodo.20543683  
-**Concept DOI (Latest ACP Version):** https://doi.org/10.5281/zenodo.20543684
+**Concept DOI (Latest Version):** https://doi.org/10.5281/zenodo.20543684
 
 ## Overview
 
